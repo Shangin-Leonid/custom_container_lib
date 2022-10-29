@@ -1,0 +1,22 @@
+
+# IGNORE:
+
+# executable files
+*.exe
+*.out
+
+# object files
+*.o
+
+# files of dependences
+*.d
+
+# files with logs
+_log_*
+
+# files for debugging
+_debug_*
+
+# swp files
+*.swp
+
