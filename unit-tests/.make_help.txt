@@ -1,0 +1,16 @@
+
+The path to the source programm code: 
+../../../containers/<name of unit>
+
+
++---------------------------------------------------------------------------+
+|                       COMMON DISCRIPTION OF makefiles                     |
+|                                                                           |
+| * 'make' or 'make help'   - show this "make_help.txt" file                |
+| * 'make test'             - test the programm:                            | 
+|                               compile, run and check with valgrind        |
+| * 'make retest'           - do 'make clean' and then 'make test' again    |
+| * 'make clean'            - delete executable and log files               |
+|                                                                           |
++---------------------------------------------------------------------------+
+
