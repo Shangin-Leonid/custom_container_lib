@@ -1,9 +1,9 @@
 # :green_book: custom_container_lib
-Implementing of custom C++ "like STL" containers with huge unit-testing system.
+Header-only lib with implementation of custom C++ "like STL" containers with huge unit-testing system.
 
 #
 
-## Technologies: C++17, g++, make, git, valgrind, unit-testing
+## Technologies: C++11, g++, make, git, valgrind, unit-testing
 
 ### :open_file_folder: File structure:
 + code of containers:   [*` ./containers/ `*](https://github.com/Shangin-Leonid/custom_container_lib/containers)
@@ -13,7 +13,6 @@ Implementing of custom C++ "like STL" containers with huge unit-testing system.
 #
 
 ### :package: Containers:
-+ [**` array `**](https://github.com/Shangin-Leonid/custom_container_lib/container/array.hpp)
 + [**` circular_list `**](https://github.com/Shangin-Leonid/custom_container_lib/container/circular_list.hpp)
 
 
