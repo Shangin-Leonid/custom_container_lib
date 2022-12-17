@@ -79,3 +79,9 @@ compare_logs:
 	@echo ""
 	@cat $(REPORT_RESULT_FILE)
 	@echo ""
+
+clean_unit_tests:
+	@echo ""
+	@rm -r -f $(T_LOG_DIR)/std_forward_list $(T_LOG_DIR)/ctl_cyclic_list
+	@echo "All temporary files created by unit-tests were successfully deleted."
+	@echo ""
